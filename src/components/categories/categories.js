@@ -17,6 +17,7 @@ class Categories extends CoreCategory {
     return (
       <div>
         <div>
+          <h2>Hello</h2>
           <div style={{ float: 'right' }}>
             <button><Link to="/login">Logout</Link> </button>
           </div>
