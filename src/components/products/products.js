@@ -9,6 +9,7 @@ class Products extends CoreProducts {
     return (
       <div>
         <h1>Products</h1>
+        <h2>Hai friends</h2>
         <Container>
           <Row className="mt-3">
             <Col lg={8} className="mx-auto category_sec">
