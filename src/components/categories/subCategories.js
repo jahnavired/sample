@@ -47,3 +47,13 @@ class SubCategory extends CoreSubCategory {
 }
 
 export default SubCategory
+
+
+
+
+
+
+
+
+
+
