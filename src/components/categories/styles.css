@@ -1,0 +1,11 @@
+.title {
+  color: #555;
+  font: 600 24px sans-serif;
+  background: turquoise;
+  padding: 10px;
+}
+
+.title span {
+  color: blue
+}
+
