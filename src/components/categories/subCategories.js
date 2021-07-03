@@ -11,7 +11,7 @@ class SubCategory extends CoreSubCategory {
     return (
       <div>
         <h3>This is SubCategories Page</h3>
-        <h2>Hello</h2>
+        <h2>Hai</h2>
         <Container>
           <Row className="mt-3">
             <Col lg={8} className="mx-auto category_sec">
